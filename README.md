@@ -1,2 +1,2 @@
 # iris-data
-iris flower classification 
+Exploring and visualizing iris data set
